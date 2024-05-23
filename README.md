@@ -9,7 +9,7 @@ There is also functionality for bookmarking a listing and a page with all bookma
 
 ## Video Walkthrough
 
-<img src='https://i.imgur.com/2llI4WF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/kltJdcW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with
